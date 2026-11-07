@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>18.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{a08c7b86-658a-4ba4-aa04-565bc1ddd70b}</ProjectGuid>
+    <RootNamespace>LittleFocProject</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v145</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Manifest>
+      <EnableSegmentHeap>true</EnableSegmentHeap>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Manifest>
+      <EnableSegmentHeap>true</EnableSegmentHeap>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalIncludeDirectories>C:\Users\Shado\Documents\VisualStudio2022_project\LittleFoc最终版3\LittleFoc\LittleFocCodeProject\LittleQmath\Inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Manifest>
+      <EnableSegmentHeap>true</EnableSegmentHeap>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+    <Manifest>
+      <EnableSegmentHeap>true</EnableSegmentHeap>
+    </Manifest>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\LittleQmath\Src\lq_arcsin_arccos_pu.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_arcsin_arccos_pu_subdivide_table.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_arctan2_pu_approximate_curve.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_float_to_q_value_type.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_q_format_to_float.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_q_format_to_int.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_float_to_q_format.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_int_to_q_format.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_add.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_div.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_mul.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_sub.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_to_q_format.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_sin_cos_pu_cordic_depth.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_sin_cos_pu_cordic_depth_table.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_sin_cos_pu_subdivide.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_sin_cos_pu_subdivide_table.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_sqrt_newton_iteration.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_float_to_q_format.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_int_to_q_format.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_q_format_add.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_q_format_div.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_q_format_sub.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_q_format_to_q_format.c" />
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturtaion_q_format_mul.c" />
+    <ClCompile Include="main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\LittleQmath\Inc\lq_arcsin_arccos_pu_subdivide.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_arcsin_arccos_pu_subdivide_mode.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_arcsin_arccos_pu_subdivide_table.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_arctan2_pu_approximate_curve.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_error.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_float_to_q_value_type.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_includes.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_mode.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_q_format_to_float.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_q_format_to_int.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_float_to_q_format.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_int_to_q_format.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_add.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_div.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_mul.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_sub.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_to_q_format.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_cordic_depth.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_cordic_depth_mode.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_cordic_depth_table.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_subdivide.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_subdivide_mode.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_subdivide_table.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_sqrt_newton_iteration.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_type.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_float_to_q_format.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_int_to_q_format.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_add.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_div.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_mul.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_sub.h" />
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_to_q_format.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

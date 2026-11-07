@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LittleFoc">
+      <UniqueIdentifier>{cd4d1ed7-fb6e-48f9-89e1-92c05da20033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LittleFoc\头文件">
+      <UniqueIdentifier>{fd5606dc-07b2-4b99-87e1-08d667d81fff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LittleFoc\源文件">
+      <UniqueIdentifier>{82f4ef98-6c28-4d82-ab46-c2e997925a66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LittleQmath">
+      <UniqueIdentifier>{1257d15b-68a7-4288-b7c4-8e12ca8ffb84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LittleQmath\头文件">
+      <UniqueIdentifier>{a77a5a38-d060-483e-9960-bf135c7e7ed9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LittleQmath\源文件">
+      <UniqueIdentifier>{f11564bb-7f95-42e0-b047-a5c18f92fb54}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\LittleQmath\Src\lq_arcsin_arccos_pu.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_arcsin_arccos_pu_subdivide_table.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_arctan2_pu_approximate_curve.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_float_to_q_value_type.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_q_format_to_float.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_q_format_to_int.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_float_to_q_format.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_int_to_q_format.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_add.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_div.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_mul.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_sub.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_saturation_q_format_to_q_format.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_sin_cos_pu_cordic_depth.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_sin_cos_pu_cordic_depth_table.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_sin_cos_pu_subdivide.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_sin_cos_pu_subdivide_table.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_sqrt_newton_iteration.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_float_to_q_format.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_int_to_q_format.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_q_format_add.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_q_format_div.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_q_format_sub.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturation_q_format_to_q_format.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LittleQmath\Src\lq_unsaturtaion_q_format_mul.c">
+      <Filter>LittleQmath\源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\LittleQmath\Inc\lq_arcsin_arccos_pu_subdivide.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_arcsin_arccos_pu_subdivide_mode.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_arcsin_arccos_pu_subdivide_table.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_arctan2_pu_approximate_curve.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_error.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_float_to_q_value_type.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_includes.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_mode.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_q_format_to_float.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_q_format_to_int.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_float_to_q_format.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_int_to_q_format.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_add.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_div.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_mul.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_sub.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_saturation_q_format_to_q_format.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_cordic_depth.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_cordic_depth_mode.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_cordic_depth_table.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_subdivide.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_subdivide_mode.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_sin_cos_pu_subdivide_table.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_sqrt_newton_iteration.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_type.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_float_to_q_format.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_int_to_q_format.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_add.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_div.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_mul.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_sub.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LittleQmath\Inc\lq_unsaturation_q_format_to_q_format.h">
+      <Filter>LittleQmath\头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
