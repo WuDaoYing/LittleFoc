@@ -111,7 +111,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>C:\Users\Shado\Documents\VisualStudio2022_project\LittleFoc最终版3\LittleFoc\LittleFocCodeProject\LittleQmath\Inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Shado\Documents\VisualStudio2022_project\LittleFoc最终版3\LittleFoc\LittleFocCodeProject\LittleQmath\Inc;C:\Users\Shado\Documents\VisualStudio2022_project\LittleFoc最终版3\LittleFoc\LittleFocCodeProject\LittleFoc\Inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -140,6 +140,11 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\LittleFoc\Src\lfoc_log.c" />
+    <ClCompile Include="..\LittleFoc\Src\lfoc_malloc_port.c" />
+    <ClCompile Include="..\LittleFoc\Src\lfoc_math.c" />
+    <ClCompile Include="..\LittleFoc\Src\lfoc_math_lse.c" />
+    <ClCompile Include="..\LittleFoc\Src\lfoc_mem.c" />
     <ClCompile Include="..\LittleQmath\Src\lq_arcsin_arccos_pu.c" />
     <ClCompile Include="..\LittleQmath\Src\lq_arcsin_arccos_pu_subdivide_table.c" />
     <ClCompile Include="..\LittleQmath\Src\lq_arctan2_pu_approximate_curve.c" />
@@ -168,6 +173,15 @@
     <ClCompile Include="main.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\LittleFoc\Inc\lfoc_error.h" />
+    <ClInclude Include="..\LittleFoc\Inc\lfoc_includes.h" />
+    <ClInclude Include="..\LittleFoc\Inc\lfoc_log.h" />
+    <ClInclude Include="..\LittleFoc\Inc\lfoc_malloc_port.h" />
+    <ClInclude Include="..\LittleFoc\Inc\lfoc_math.h" />
+    <ClInclude Include="..\LittleFoc\Inc\lfoc_math_lse.h" />
+    <ClInclude Include="..\LittleFoc\Inc\lfoc_mem.h" />
+    <ClInclude Include="..\LittleFoc\Inc\lfoc_port.h" />
+    <ClInclude Include="..\LittleFoc\Inc\lfoc_type.h" />
     <ClInclude Include="..\LittleQmath\Inc\lq_arcsin_arccos_pu_subdivide.h" />
     <ClInclude Include="..\LittleQmath\Inc\lq_arcsin_arccos_pu_subdivide_mode.h" />
     <ClInclude Include="..\LittleQmath\Inc\lq_arcsin_arccos_pu_subdivide_table.h" />

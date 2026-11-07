@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFocProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_mem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_math_lse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_math.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_malloc_port.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_malloc_port.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_port.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_mem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_math_lse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFocProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_log.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_type.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_mode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide_mode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Src\\lq_arcsin_arccos_pu_subdivide_table.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08C7B86-658A-4BA4-AA04-565BC1DDD70B}|LittleFocProject.vcxproj|C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Src\\lq_arcsin_arccos_pu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +74,283 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lfoc_math_lse.c",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_math_lse.c",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Src\\lfoc_math_lse.c",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_math_lse.c",
+              "RelativeToolTip": "..\\LittleFoc\\Src\\lfoc_math_lse.c",
+              "ViewState": "AgIAAD4EAAAAAAAAAAAQwFwEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-07T14:45:43.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lfoc_math_lse.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_math_lse.h",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Inc\\lfoc_math_lse.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_math_lse.h",
+              "RelativeToolTip": "..\\LittleFoc\\Inc\\lfoc_math_lse.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:45:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "lfoc_math.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_math.h",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Inc\\lfoc_math.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_math.h",
+              "RelativeToolTip": "..\\LittleFoc\\Inc\\lfoc_math.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:43:20.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lfoc_math.c",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_math.c",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Src\\lfoc_math.c",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_math.c",
+              "RelativeToolTip": "..\\LittleFoc\\Src\\lfoc_math.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-07T14:43:17.883Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "lfoc_mem.c",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_mem.c",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Src\\lfoc_mem.c",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_mem.c",
+              "RelativeToolTip": "..\\LittleFoc\\Src\\lfoc_mem.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-07T14:38:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lfoc_mem.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_mem.h",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Inc\\lfoc_mem.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_mem.h",
+              "RelativeToolTip": "..\\LittleFoc\\Inc\\lfoc_mem.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:37:47.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lfoc_malloc_port.c",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_malloc_port.c",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Src\\lfoc_malloc_port.c",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_malloc_port.c",
+              "RelativeToolTip": "..\\LittleFoc\\Src\\lfoc_malloc_port.c",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAALAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-07T14:36:31.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lfoc_malloc_port.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_malloc_port.h",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Inc\\lfoc_malloc_port.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_malloc_port.h",
+              "RelativeToolTip": "..\\LittleFoc\\Inc\\lfoc_malloc_port.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:36:26.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lfoc_log.c",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_log.c",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Src\\lfoc_log.c",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Src\\lfoc_log.c",
+              "RelativeToolTip": "..\\LittleFoc\\Src\\lfoc_log.c",
+              "ViewState": "AgIAAJEDAAAAAAAAAAAAwKADAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-07T14:32:54.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lfoc_port.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_port.h",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Inc\\lfoc_port.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_port.h",
+              "RelativeToolTip": "..\\LittleFoc\\Inc\\lfoc_port.h",
+              "ViewState": "AgIAAO8BAAAAAAAAAAAAAOoBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:22:45.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "lfoc_log.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_log.h",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Inc\\lfoc_log.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_log.h",
+              "RelativeToolTip": "..\\LittleFoc\\Inc\\lfoc_log.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:21:10.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lfoc_type.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_type.h",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Inc\\lfoc_type.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_type.h",
+              "RelativeToolTip": "..\\LittleFoc\\Inc\\lfoc_type.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAE0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:16:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lfoc_includes.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_includes.h",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Inc\\lfoc_includes.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_includes.h",
+              "RelativeToolTip": "..\\LittleFoc\\Inc\\lfoc_includes.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:15:43.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lfoc_error.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_error.h",
+              "RelativeDocumentMoniker": "..\\LittleFoc\\Inc\\lfoc_error.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFoc\\Inc\\lfoc_error.h",
+              "RelativeToolTip": "..\\LittleFoc\\Inc\\lfoc_error.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:15:28.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFocProject\\main.c",
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleFocProject\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-11-07T13:49:43.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "lq_arcsin_arccos_pu_subdivide.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide.h",
+              "RelativeDocumentMoniker": "..\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide.h",
+              "RelativeToolTip": "..\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:43:09.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "lq_type.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_type.h",
+              "RelativeDocumentMoniker": "..\\LittleQmath\\Inc\\lq_type.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_type.h",
+              "RelativeToolTip": "..\\LittleQmath\\Inc\\lq_type.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:18:34.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "lq_mode.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_mode.h",
+              "RelativeDocumentMoniker": "..\\LittleQmath\\Inc\\lq_mode.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_mode.h",
+              "RelativeToolTip": "..\\LittleQmath\\Inc\\lq_mode.h",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:18:29.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "lq_arcsin_arccos_pu_subdivide_mode.h",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide_mode.h",
+              "RelativeDocumentMoniker": "..\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide_mode.h",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide_mode.h",
+              "RelativeToolTip": "..\\LittleQmath\\Inc\\lq_arcsin_arccos_pu_subdivide_mode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-07T14:18:27.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "lq_arcsin_arccos_pu_subdivide_table.c",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Src\\lq_arcsin_arccos_pu_subdivide_table.c",
+              "RelativeDocumentMoniker": "..\\LittleQmath\\Src\\lq_arcsin_arccos_pu_subdivide_table.c",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Src\\lq_arcsin_arccos_pu_subdivide_table.c",
+              "RelativeToolTip": "..\\LittleQmath\\Src\\lq_arcsin_arccos_pu_subdivide_table.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-07T14:18:22.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "lq_arcsin_arccos_pu.c",
+              "DocumentMoniker": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Src\\lq_arcsin_arccos_pu.c",
+              "RelativeDocumentMoniker": "..\\LittleQmath\\Src\\lq_arcsin_arccos_pu.c",
+              "ToolTip": "C:\\Users\\Shado\\Documents\\VisualStudio2022_project\\LittleFoc\u6700\u7EC8\u72483\\LittleFoc\\LittleFocCodeProject\\LittleQmath\\Src\\lq_arcsin_arccos_pu.c",
+              "RelativeToolTip": "..\\LittleQmath\\Src\\lq_arcsin_arccos_pu.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-07T14:18:21.907Z",
               "EditorCaption": ""
             }
           ]

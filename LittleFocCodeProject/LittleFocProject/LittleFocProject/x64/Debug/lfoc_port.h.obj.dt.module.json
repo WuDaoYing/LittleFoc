@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LittleFocProject\\x64\\Debug\\lfoc_port.obj",
+            "outputs": [
+                "LittleFocProject\\x64\\Debug\\lfoc_port.h.obj.dt.module.json",
+                "LittleFocProject\\x64\\Debug\\lfoc_port.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

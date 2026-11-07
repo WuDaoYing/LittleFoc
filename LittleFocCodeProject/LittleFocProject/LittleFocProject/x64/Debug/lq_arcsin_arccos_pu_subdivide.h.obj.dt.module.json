@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LittleFocProject\\x64\\Debug\\lq_arcsin_arccos_pu_subdivide.obj",
+            "outputs": [
+                "LittleFocProject\\x64\\Debug\\lq_arcsin_arccos_pu_subdivide.h.obj.dt.module.json",
+                "LittleFocProject\\x64\\Debug\\lq_arcsin_arccos_pu_subdivide.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
