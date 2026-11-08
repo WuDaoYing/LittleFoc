@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LittleFocProject\\x64\\Debug\\lfoc_includes.obj",
+            "outputs": [
+                "LittleFocProject\\x64\\Debug\\lfoc_includes.h.obj.dt.module.json",
+                "LittleFocProject\\x64\\Debug\\lfoc_includes.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

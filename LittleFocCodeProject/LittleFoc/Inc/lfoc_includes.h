@@ -27,11 +27,10 @@
 #include "lfoc_port.h"                         //!<LFOC存放运算核心文件的头文件
 #include "lfoc_mem.h"                          //!<LFOC存放内存管理文件的头文件
 #include "lfoc_math_lse.h"                     //!<LFOC存放最小二乘算法的头文件
-
-//#include "lfoc_abnormal_check.h"               //!<LFOC存放数据校验的头文件
-//#include "lfoc_benchmark.h"                    //!<LFOC存放基准的头文件
-//#include "lfoc_standardization.h"              //!<LFOC存放标幺化的头文件
-//#include "lfoc_inverse_standardization.h"      //!<LFOC存放反标幺化的头文件
+#include "lfoc_abnormal_check.h"               //!<LFOC存放数据校验的头文件
+#include "lfoc_benchmark.h"                    //!<LFOC存放基准的头文件
+#include "lfoc_standardization.h"              //!<LFOC存放标幺化的头文件
+#include "lfoc_inverse_standardization.h"      //!<LFOC存放反标幺化的头文件
 //#include "lfoc_quantization.h"                 //!<LFOC存放量化操作的头文件
 
 

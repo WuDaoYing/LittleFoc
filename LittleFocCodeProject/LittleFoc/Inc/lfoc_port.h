@@ -50,8 +50,8 @@
 #define MEM_MANAGE_LFOC             0                     //!<内存管理LFOC自带的
 #define MEM_MANAGE_SYSTEM           1                     //!<内存管理系统本身的
 /*************************预编译所选项*********************************/
-#define LFOC_USE_PLATFORM        MCU                      //!<选择所使用的平台
-#define LFOC_GLOBAL_FORMAT       FLOAT_FORMAT             //!<选择所使用的运算格式
+#define LFOC_USE_PLATFORM        MATLAB_SIMULINK                      //!<选择所使用的平台
+#define LFOC_GLOBAL_FORMAT       Q15_PU_FORMAT          //!<选择所使用的运算格式
 #define LFOC_LOG_LEVEL           LOG_O0_ENABLE            //!<选择日志输出的优化等级
 #define LFOC_LOG_PRINTF_MODE     LOG_BUILT_IN_TEXT_PRINTF //!<日志文本输出
 #define LFOC_MEM_MANAGE_MODE     MEM_MANAGE_LFOC          //!<内存管理模式

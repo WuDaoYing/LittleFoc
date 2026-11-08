@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LittleFocProject\\x64\\Debug\\mp_quantization.obj",
+            "outputs": [
+                "LittleFocProject\\x64\\Debug\\mp_quantization.h.obj.dt.module.json",
+                "LittleFocProject\\x64\\Debug\\mp_quantization.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
